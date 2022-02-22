@@ -4,17 +4,18 @@ html {
 body {
   width: 100%;
   height: 100%;
-  background: url("/images/black-night.jpg") no-repeat fixed;
+  background: url("https://github.com/E1lias1Z/MySitesProjects/blob/pikachu_b/images/black-night.jpg")
+    no-repeat fixed;
   background-size: cover;
 }
 
 @font-face {
   font-family: "Pokemon Script";
-  src: url("/font/Poke.ttf");
+  src: url("https://github.com/E1lias1Z/MySitesProjects/blob/pikachu_b/font/Poke.ttf");
 }
 @font-face {
   font-family: "Eskool Regular";
-  src: url("/font/Eskool-Regular.ttf");
+  src: url("https://github.com/E1lias1Z/MySitesProjects/blob/pikachu_b/font/Eskool-Regular.ttf");
 }
 p.pokemon {
   font-family: "Pokemon Script";
