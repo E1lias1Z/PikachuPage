@@ -10,11 +10,11 @@ body {
 
 @font-face {
   font-family: "Pokemon Script";
-  src: url("/fonts/Poke.ttf");
+  src: url("/font/Poke.ttf");
 }
 @font-face {
   font-family: "Eskool Regular";
-  src: url("/fonts/Eskool-Regular.ttf");
+  src: url("/font/Eskool-Regular.ttf");
 }
 p.pokemon {
   font-family: "Pokemon Script";
