@@ -1,2 +1,2 @@
 # MySitesProjects
-Mini-site projects
+1. Pikachu Page (*Pokemon GO*)
